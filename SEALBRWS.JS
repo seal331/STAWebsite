@@ -9,3 +9,7 @@ function seal(){
         myImage.setAttribute ('height', '29');
     }
 };
+
+function nxeaster(){ 
+    document.getElementById("nxeaster").href="315.HTML";
+};
